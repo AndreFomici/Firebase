@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "299984934753",
+    "firebase_url": "https://primeirospassos-5084b.firebaseio.com",
+    "project_id": "primeirospassos-5084b",
+    "storage_bucket": "primeirospassos-5084b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299984934753:android:29629271d6b8d17b605720",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299984934753-5ll83kaions68igjdlmsn8ct2i6bimfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "64d4a466babced741c14c3ace621b13f70292a47"
+          }
+        },
+        {
+          "client_id": "299984934753-ken3ueqsdut26fhmbs7vnvelhbbh2bdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmPoB0m9pWwvWgK2pXnuyAxdBvOZCzVXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299984934753-ken3ueqsdut26fhmbs7vnvelhbbh2bdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
